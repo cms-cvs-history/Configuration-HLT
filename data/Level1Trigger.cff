@@ -1,0 +1,7 @@
+/*
+   cff file to configure the Level-1 Trigger
+   - to be run online (real data) or as part of simulation production
+*/
+
+// has to define a sequence of name doLevel1Trigger
+sequence doLevel1Trigger = { }
