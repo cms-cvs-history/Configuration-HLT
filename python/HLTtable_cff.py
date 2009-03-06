@@ -9,7 +9,7 @@ import FWCore.ParameterSet.Config as cms
 #from HLTrigger.Configuration.HLT_2E30_cff import *
 #
 # 2: the new lean low-lumi table (8e29)
-from HLTrigger.Configuration.HLT_8E29_cff import *
+# from HLTrigger.Configuration.HLT_8E29_cff import *
 #
 # 3: the new lean high-lumi table (1e31)
-# from HLTrigger.Configuration.HLT_1E31_cff import *
+from HLTrigger.Configuration.HLT_1E31_cff import *
